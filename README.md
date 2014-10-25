@@ -18,3 +18,6 @@
 有代码可以添加子目录提交： 
 
 [https://github.com/techstudy/fe](https://github.com/techstudy/fe)
+
+
+##[前端开发工具WebStorm使用教程及技巧(长久更新)](https://github.com/techstudy/fe)
