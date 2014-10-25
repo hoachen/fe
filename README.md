@@ -19,5 +19,5 @@
 
 [https://github.com/techstudy/fe](https://github.com/techstudy/fe)
  
-
-##[前端开发工具WebStorm使用教程及技巧(长久更新)](https://github.com/techstudy/fe/blob/master/article/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7WebStorm%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
+ 
+##[由WebStorm入手讲前端的那些事(长久更新)](https://github.com/techstudy/fe/blob/master/article/%E7%94%B1WebStorm%E5%85%A5%E6%89%8B%E8%AE%B2%E5%89%8D%E7%AB%AF%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B.md)
